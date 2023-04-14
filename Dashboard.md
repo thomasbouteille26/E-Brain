@@ -48,7 +48,7 @@ Acquérir une expertise dans un domaine spécifique sera un élément clé pour 
 
 ## Fondations du code
 
-[[Memo Obsidian]]
-[[Memo Git]]
-[[Memo Shell]]
-[[Memo Python]]
+[[Obsidian]]
+[[Git]]
+[[Shell]]
+[[Python]]
