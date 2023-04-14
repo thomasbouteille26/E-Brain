@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "fef15e82a66b329c",
+    "type": "split",
+    "children": [
+      {
+        "id": "997c3365e2cdf26d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78f7169fa69bcc8a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Dashboard.canvas",
+                "viewState": {
+                  "x": -670.8298843690593,
+                  "y": -1060.0209113461794,
+                  "zoom": -0.963333333333333
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "52823f87b671eff2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Fondations/Fonctionnement de Git.canvas",
+                "viewState": {
+                  "x": 141.939783055124,
+                  "y": 83.303606177677,
+                  "zoom": -0.0166666666666667
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "481ec14cd40aa4fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "24d2160a21493076",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60e9fcd69a6d320d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f7b46018fe4fac85",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7cb1075171a2757f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 589.5
+  },
+  "right": {
+    "id": "abba89742ada531d",
+    "type": "split",
+    "children": [
+      {
+        "id": "316e08a26e5817e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "031dba3efa57743b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fondations/Fonctionnement de Git.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "23bdf5253d442ec4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fondations/Fonctionnement de Git.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e347c441fa55086",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fondations/Fonctionnement de Git.canvas"
+              }
+            }
+          },
+          {
+            "id": "d3eb0bdd6ca4bdaa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b8d855745633c987",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 538.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "canvas:Créer une nouvelle toile": false,
+      "graph:Ouvrir la vue graphique": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "templates:Insérer le modèle": false
+    }
+  },
+  "active": "60e9fcd69a6d320d",
+  "lastOpenFiles": [
+    "Dashboard.canvas",
+    "Fondations/Fonctionnement de Git.canvas",
+    "Fondations/Memo Git.md",
+    "Dashboard.md",
+    "Fondations/RoadMap.canvas",
+    "Fondations/Memo Shell.md",
+    "Fondations/Memo Obsidian.md",
+    "Notebook.md",
+    "Fondations/Memo Python.md",
+    "Mental/Les lois du futur freelance.md",
+    "Mental",
+    "LIen.md",
+    "Fondations/0. Fondations index.md",
+    "Pasted image 20230414152432.png",
+    "Pasted image 20230414152417.png",
+    "Une neuronne.md",
+    "To-Do-List.md",
+    "Fondations",
+    "note.md"
+  ]
+}

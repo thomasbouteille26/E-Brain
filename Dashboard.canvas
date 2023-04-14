@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"type":"file","file":"Dashboard.md","subpath":"#Mes engagements","id":"7997d9b3f3de9cce","x":-1560,"y":-1100,"width":820,"height":640,"color":"4"},
+		{"type":"text","text":"Bonjour, Thomas","id":"1b7b58210ed0699f","x":-1550,"y":-1725,"width":180,"height":50,"color":"4"},
+		{"type":"file","file":"Dashboard.md","subpath":"#Les lois du futur freelance","id":"7790bf8ec2c8b8af","x":-1679,"y":-1620,"width":439,"height":271,"color":"4"},
+		{"type":"file","file":"Dashboard.md","subpath":"#Notebook","id":"51ced8eb9d0f1f8f","x":-660,"y":-1100,"width":1139,"height":640},
+		{"type":"file","file":"Dashboard.md","subpath":"#To Do List","id":"e53cc0d4f9596018","x":-1180,"y":-1700,"width":520,"height":462,"color":"1"},
+		{"id":"c67b8402632eeb92","x":-600,"y":-1700,"width":400,"height":540,"type":"file","file":"Fondations/RoadMap.canvas"}
+	],
+	"edges":[
+		{"id":"831f368de9abe584","fromNode":"7790bf8ec2c8b8af","fromSide":"bottom","toNode":"7997d9b3f3de9cce","toSide":"top","color":"4"},
+		{"id":"9bf670b0df39f714","fromNode":"1b7b58210ed0699f","fromSide":"bottom","toNode":"7790bf8ec2c8b8af","toSide":"top","color":"4"},
+		{"id":"eb7744973e384ba3","fromNode":"7997d9b3f3de9cce","fromSide":"top","toNode":"e53cc0d4f9596018","toSide":"bottom","color":"4"}
+	]
+}
