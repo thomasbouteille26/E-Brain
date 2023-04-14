@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "93ee6cba8091a7c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "05c62046a3e69e88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4578da26fa26239a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Fondations/Roadmap.canvas",
+                "viewState": {
+                  "x": 370,
+                  "y": -330,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "473d4d37caa44d8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "33c0a177c56602c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c852480ba78ee00",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aea8358036478093",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c64da2f9afea472b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7d66b1b280029897",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a5307807e228bc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "616c04257fbe7ebe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fondations/Roadmap.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "679dd4825efd2fc5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fondations/Roadmap.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cfaee54defb52f7b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1f8c3d02654d200b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fondations/Roadmap.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "4578da26fa26239a",
+  "lastOpenFiles": [
+    "Fondations/Git  View.canvas",
+    "Fondations/Roadmap.canvas",
+    "Fondations/nouveau fichier",
+    "Fondations/Python VIew.canvas",
+    "Fondations/Python.md",
+    "Fondations/Git.md"
+  ]
+}

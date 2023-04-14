@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"d1f01ec08f5ec1c0","x":-20,"y":-280,"width":125,"height":60,"color":"4","type":"text","text":"PYTHON"},
+		{"id":"22079657c77f3d33","x":-619,"y":-180,"width":1324,"height":60,"type":"text","text":"BLOCS ELEMENTAIRES"},
+		{"id":"5ec59509f06324eb","x":-616,"y":-100,"width":250,"height":60,"type":"text","text":"IF"},
+		{"id":"c81561dbb021b68c","x":-350,"y":-100,"width":250,"height":60,"type":"text","text":"FOR"},
+		{"id":"09c5938db11a74f9","x":-90,"y":-100,"width":250,"height":60,"type":"text","text":"WHILE"},
+		{"id":"93306fd7d7619d43","x":190,"y":-100,"width":250,"height":60,"type":"text","text":"FUNCTION"},
+		{"id":"85126aab98f31244","x":455,"y":-100,"width":250,"height":60,"type":"text","text":"CLASS"}
+	],
+	"edges":[]
+}

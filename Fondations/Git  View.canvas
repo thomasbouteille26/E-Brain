@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"b684d2e74f4d0b70","x":-425,"y":320,"width":1045,"height":560,"type":"group","label":"Depot distant - Github"},
+		{"type":"group","id":"b684d2e74f4d0b70","x":-425,"y":320,"width":1045,"height":560,"label":"Depot distant - Github"},
 		{"type":"group","id":"f6e193531e6b4483","x":-425,"y":-162,"width":1045,"height":382,"label":"Depot local - Ordinateur"},
 		{"type":"text","text":"STAGE OU INDEX","id":"06f4fb4a11230e2a","x":-120,"y":0,"width":285,"height":60,"color":"6"},
 		{"type":"text","text":"Cette zone est un intermédiaire entre le working directory et le repository. Elle représente tous les fichiers modifiés que vous souhaitez voir apparaître dans votre prochaine version de code.","id":"f088bfa58d9c7534","x":180,"y":-35,"width":420,"height":131},
@@ -10,13 +10,13 @@
 		{"type":"text","text":"REPOSITORY","id":"a69ddc9a7fb283aa","x":-120,"y":119,"width":285,"height":60,"color":"6"},
 		{"type":"text","text":"ARCHIVES DU STUDIO PHOTO","id":"5d9bdb345c7d81ff","x":-405,"y":96,"width":285,"height":104,"color":"3"},
 		{"type":"text","text":"STUDIO PHOTO","id":"af3333f131adec13","x":-405,"y":-14,"width":285,"height":89,"color":"1"},
-		{"type":"text","text":"FAMILLE A PRENDRE EN PHOTO","id":"459a8271d55646b1","x":-405,"y":-142,"width":285,"height":100,"color":"4"},
-		{"id":"9fb71a6d2374a753","x":-245,"y":800,"width":250,"height":60,"color":"6","type":"text","text":"Application V2"},
-		{"id":"5977b24e74307a17","x":5,"y":490,"width":250,"height":60,"color":"1","type":"text","text":"Application V2"},
-		{"id":"359470d70334e0f0","x":-340,"y":640,"width":250,"height":60,"color":"3","type":"text","text":"Application V1"},
-		{"id":"09e4a4544e4a1593","x":-340,"y":520,"width":250,"height":60,"color":"3","type":"text","text":"Application V1"},
-		{"id":"a92f39b4f99063a5","x":-340,"y":400,"width":250,"height":60,"color":"6","type":"text","text":"Application V1"},
-		{"id":"4307e2e31eec0827","x":5,"y":610,"width":250,"height":60,"color":"1","type":"text","text":"Application V2"}
+		{"type":"text","text":"FAMILLE A PRENDRE EN PHOTO","id":"459a8271d55646b1","x":-405,"y":-142,"width":285,"height":100,"color":"5"},
+		{"type":"text","text":"Application fusionné V1 + V2","id":"9fb71a6d2374a753","x":-245,"y":810,"width":285,"height":50,"color":"6"},
+		{"type":"text","text":"Application V1","id":"359470d70334e0f0","x":-340,"y":640,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"Application V1","id":"09e4a4544e4a1593","x":-340,"y":520,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"Application V1","id":"a92f39b4f99063a5","x":-340,"y":400,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"Application V2","id":"5977b24e74307a17","x":-60,"y":490,"width":250,"height":60,"color":"4"},
+		{"type":"text","text":"Application V2","id":"4307e2e31eec0827","x":-60,"y":610,"width":250,"height":60,"color":"4"}
 	],
 	"edges":[
 		{"id":"f2fd59ba7c2b79c3","fromNode":"1f2e157abfea90d3","fromSide":"bottom","toNode":"06f4fb4a11230e2a","toSide":"top","label":"INIT"},
